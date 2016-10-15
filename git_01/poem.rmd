@@ -23,7 +23,14 @@ Beware the Jubjub bird, and shun
 The frumious Bandersnatch!”   
 
 ## Second Verse
-<Put the first two verses of The Road Not Taken by Robert Frost here>
+He took his vorpal sword in hand;   
+Long time the manxome foe he sought—   
+So rested he by the Tumtum tree   
+And stood awhile in thought.   
+And, as in uffish thought he stood,   
+The Jabberwock, with eyes of flame,   
+Came whiffling through the tulgey wood,   
+And burbled as it came!   
 
 ## Third Verse
 <Put the first two verses of The Walrus and the Carpenter here>
